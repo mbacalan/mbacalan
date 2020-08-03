@@ -1,14 +1,12 @@
 ### Greetings, traveler!
 
-I'm a front-end web developer, currently helping create all kinds of worldwide e-commerce sites.
-
-Apart from front-end, I also have experience with building API's and basic server setups with Node.js.
+I'm mainly a front-end web developer but I also have experience with building API's and basic server setups with Node.js.
 
 I'm a big fan of open source, not only as in free code but as a whole philosophy and you can see almost all of my own projects here.
 
-My current focus is [aureneBot](https://github.com/mbacalan/aureneBot), a utility bot for Guild Wars 2 on Discord.
+My current focus is [aurene-bot](https://github.com/mbacalan/aurene-bot), a utility bot for Guild Wars 2 on Discord.
 
-That's all for now!
+Thanks for checking my profile!
 
 <!--
 **mbacalan/mbacalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
